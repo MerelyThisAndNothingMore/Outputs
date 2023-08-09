@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "TasksBoard",
+      "path": "DataBase/Tasks/TasksBoard.md"
+    },
+    {
+      "type": "file",
+      "title": "WorkDesk",
+      "path": "WorkDesk.canvas"
+    }
+  ]
+}

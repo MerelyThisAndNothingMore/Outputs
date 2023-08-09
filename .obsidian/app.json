@@ -1,0 +1,15 @@
+{
+  "spellcheck": true,
+  "showFrontmatter": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "defaultViewMode": "source",
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "spellcheckLanguages": null,
+  "attachmentFolderPath": "Resources/Images",
+  "newFileLocation": "current",
+  "livePreview": true,
+  "readableLineLength": true
+}
