@@ -11,5 +11,8 @@
   "attachmentFolderPath": "Resources/Images",
   "newFileLocation": "current",
   "livePreview": true,
-  "readableLineLength": true
+  "readableLineLength": true,
+  "userIgnoreFilters": [
+    "Templates/"
+  ]
 }
