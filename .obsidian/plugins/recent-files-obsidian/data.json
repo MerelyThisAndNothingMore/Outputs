@@ -3,6 +3,22 @@
     {
       "basename": "遣送回亚美尼亚",
       "path": "讽刺/苏联笑话/遣送回亚美尼亚.md"
+    },
+    {
+      "basename": "WeeklyTemplate",
+      "path": "Templates/WeeklyTemplate.md"
+    },
+    {
+      "basename": "BaseTemplate",
+      "path": "Templates/BaseTemplate.md"
+    },
+    {
+      "basename": "DailyTemplate",
+      "path": "Templates/DailyTemplate.md"
+    },
+    {
+      "basename": "Home Page",
+      "path": "Home Page.md"
     }
   ],
   "omittedPaths": [],

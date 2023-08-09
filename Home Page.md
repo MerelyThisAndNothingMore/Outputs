@@ -3,6 +3,8 @@ tags:
 alias:
 ---
 
+
+
 ```dataviewjs
 // Render Title 
 dv.span("**Daily Work**")
