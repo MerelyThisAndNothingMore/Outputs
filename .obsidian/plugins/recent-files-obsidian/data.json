@@ -5,6 +5,26 @@
       "path": "Material/History/Soviet/Timeline/1979年分析.md"
     },
     {
+      "basename": "勋宗十五年的可行性分析",
+      "path": "DataBase/History/Soviet/勋宗十五年/勋宗十五年的可行性分析.md"
+    },
+    {
+      "basename": "2023-08-10",
+      "path": "Timeline/Daily/2023-08-10.md"
+    },
+    {
+      "basename": "2023-W32",
+      "path": "Timeline/Weekly/2023-W32.md"
+    },
+    {
+      "basename": "WeeklyTemplate",
+      "path": "Templates/WeeklyTemplate.md"
+    },
+    {
+      "basename": "BaseTemplate",
+      "path": "Templates/BaseTemplate.md"
+    },
+    {
       "basename": "Timeline",
       "path": "Material/History/Soviet/Timeline/Timeline.md"
     },
@@ -17,10 +37,6 @@
       "path": "Material/History/Soviet/Brezhnev/Brezhnev.md"
     },
     {
-      "basename": "勋宗十五年的可行性分析",
-      "path": "DataBase/History/Soviet/勋宗十五年/勋宗十五年的可行性分析.md"
-    },
-    {
       "basename": "Almanac Nikita Khrushchev",
       "path": "Material/History/Soviet/Almanac Nikita Khrushchev.md"
     },
@@ -31,10 +47,6 @@
     {
       "basename": "万历十五年",
       "path": "Material/History/Ming Dynasty/万历十五年.md"
-    },
-    {
-      "basename": "2023-08-10",
-      "path": "Timeline/Daily/2023-08-10.md"
     },
     {
       "basename": "勋宗十五年",
@@ -71,14 +83,6 @@
     {
       "basename": "2023-08-09",
       "path": "Timeline/Daily/2023-08-09.md"
-    },
-    {
-      "basename": "WeeklyTemplate",
-      "path": "Templates/WeeklyTemplate.md"
-    },
-    {
-      "basename": "BaseTemplate",
-      "path": "Templates/BaseTemplate.md"
     },
     {
       "basename": "DailyTemplate",
