@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home Page",
+      "path": "Home Page.md"
+    },
+    {
       "basename": "README",
       "path": "README.md"
     },
@@ -67,10 +71,6 @@
     {
       "basename": "Computer",
       "path": "DataBase/Technology/Computer/Computer.md"
-    },
-    {
-      "basename": "Home Page",
-      "path": "Home Page.md"
     }
   ],
   "omittedPaths": [],
