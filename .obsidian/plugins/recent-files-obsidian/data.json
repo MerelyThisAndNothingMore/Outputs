@@ -5,6 +5,10 @@
       "path": "Home Page.md"
     },
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "History",
       "path": "DataBase/History/History.md"
     },
