@@ -5,6 +5,10 @@
       "path": "Home Page.md"
     },
     {
+      "basename": "Soviet",
+      "path": "Material/History/Soviet/Soviet.md"
+    },
+    {
       "basename": "README",
       "path": "README.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "Timeline",
       "path": "Material/History/Soviet/Timeline/Timeline.md"
-    },
-    {
-      "basename": "Soviet",
-      "path": "Material/History/Soviet/Soviet.md"
     },
     {
       "basename": "Brezhnev",
