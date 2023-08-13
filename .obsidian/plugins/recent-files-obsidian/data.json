@@ -1,28 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Home Page",
-      "path": "Home Page.md"
+      "basename": "1979年分析",
+      "path": "Material/History/Soviet/Timeline/1979年分析.md"
     },
     {
-      "basename": "Soviet",
-      "path": "Material/History/Soviet/Soviet.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "History",
-      "path": "DataBase/History/History.md"
+      "basename": "勋宗十五年的可行性分析",
+      "path": "DataBase/History/Soviet/勋宗十五年/勋宗十五年的可行性分析.md"
     },
     {
       "basename": "2023-08-10",
       "path": "Timeline/Daily/2023-08-10.md"
     },
     {
-      "basename": "1938-5-1-Moscow-Celebration",
-      "path": "Material/History/Soviet/1938-5-1-Moscow-Celebration.md"
+      "basename": "2023-W32",
+      "path": "Timeline/Weekly/2023-W32.md"
+    },
+    {
+      "basename": "WeeklyTemplate",
+      "path": "Templates/WeeklyTemplate.md"
     },
     {
       "basename": "BaseTemplate",
@@ -31,6 +27,10 @@
     {
       "basename": "Timeline",
       "path": "Material/History/Soviet/Timeline/Timeline.md"
+    },
+    {
+      "basename": "Soviet",
+      "path": "Material/History/Soviet/Soviet.md"
     },
     {
       "basename": "Brezhnev",
@@ -51,10 +51,6 @@
     {
       "basename": "勋宗十五年",
       "path": "DataBase/History/Soviet/勋宗十五年/勋宗十五年.md"
-    },
-    {
-      "basename": "Soviet",
-      "path": "DataBase/History/Soviet/Soviet.md"
     },
     {
       "basename": "History",
