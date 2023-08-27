@@ -2,9 +2,6 @@
 tags: 
 alias:
 ---
-
-
-
 ```dataviewjs
 // Render Title 
 dv.span("**Daily Work**")
@@ -46,4 +43,5 @@ renderHeatmapCalendar(this.container, calendarData)
 ```
 
 
+# Plan
 
