@@ -17,6 +17,10 @@
     {
       "folder": "Templates",
       "template": "Templates/BaseTemplate.md"
+    },
+    {
+      "folder": "DataBase/Men",
+      "template": "Templates/men_template.md"
     }
   ],
   "syntax_highlighting": true,
